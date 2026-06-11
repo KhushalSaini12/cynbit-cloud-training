@@ -1,0 +1,12 @@
+Cloud Computing Basics
+
+Cloud computing provides computing resources such as servers, storage, databases, and networking over the internet.
+
+Advantages:
+1. Cost Effective
+2. Scalable
+3. Reliable
+4. Secure
+5. Accessible from Anywhere
+
+AWS (Amazon Web Services) is a leading cloud computing platform that offers cloud services on a pay-as-you-go basis.
